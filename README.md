@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ijarag7
+- 👀 I’m interested in OLS, VAR, VECM, etc
+- 🌱 I’m currently learning Economics
